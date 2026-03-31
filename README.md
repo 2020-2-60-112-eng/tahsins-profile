@@ -33,8 +33,10 @@ npm run dev
 2. Add a new site from Git
 3. Connect your repository
 4. Set build command to `npm run build`
-5. Set publish directory to `.next`
+5. Set publish directory to `out`
 6. Deploy
+
+Live site: https://tahsins-profile.netlify.app
 
 ## Customize your profile
 
