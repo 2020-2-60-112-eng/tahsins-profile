@@ -41,3 +41,5 @@ npm run dev
 - Replace `public/profile.svg` with your own image file as `public/profile.jpg` or `public/profile.png`.
 - Update contact information in `app/page.tsx`.
 - Add more projects or experience sections.
+
+- Demo: Deployed to production URL: https://tahsins-profile.netlify.app 
